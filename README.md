@@ -1,2 +1,2 @@
 # nodejs-docker
-build an docker image with simple nodejs app
+build a docker image with simple nodejs app
